@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1280 640" width="1280" height="640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Social preview card">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#2C3860"/><stop offset="100%" stop-color="#1A2138"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#glow)"/>
+  <rect x="0" y="628" width="1280" height="12" fill="#E57200"/>
+  <rect x="96" y="148" width="52" height="6" fill="#F08019"/>
+  <text x="96" y="196" font-family="'Avenir Next','Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5" fill="#F08019">DARDEN TECH CLUB</text>
+  <text x="92" y="290" font-family="'Avenir Next','Segoe UI',Arial,sans-serif" font-size="86" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">DTC Case Competition</text>
+  <text x="96" y="352" font-family="'Avenir Next','Segoe UI',Arial,sans-serif" font-size="29" font-weight="500" fill="#B9C1D4">A marketing case completed with working AI agents —</text>
+  <text x="96" y="392" font-family="'Avenir Next','Segoe UI',Arial,sans-serif" font-size="29" font-weight="500" fill="#B9C1D4">judged on the recommendation and the build.</text>
+  <text x="96" y="500" font-family="'Avenir Next','Segoe UI',Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="2.5" fill="#7E88A3">CONCEPTS · SPEC · RUBRIC · EVENT OPS</text>
+  <g stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="2" fill="none">
+    <path d="M 1010 430 L 1092 490 M 1010 470 L 1092 490 M 1010 510 L 1092 490 M 1010 550 L 1092 490"/>
+    <path d="M 1108 490 L 1180 450 M 1108 490 L 1180 490 M 1108 490 L 1180 530"/>
+  </g>
+  <path d="M 1010 470 L 1092 490 L 1180 490" stroke="#F08019" stroke-width="3.5" fill="none"/>
+  <g fill="#FFFFFF" fill-opacity="0.5">
+    <circle cx="1010" cy="430" r="8"/><circle cx="1010" cy="510" r="8"/><circle cx="1010" cy="550" r="8"/>
+  </g>
+  <circle cx="1010" cy="470" r="9" fill="#F08019"/>
+  <circle cx="1100" cy="490" r="19" fill="none" stroke="#F08019" stroke-width="3.5"/>
+  <circle cx="1100" cy="490" r="7" fill="#F08019"/>
+  <g fill="#FFFFFF" fill-opacity="0.5">
+    <rect x="1180" y="442" width="16" height="16" rx="2"/><rect x="1204" y="442" width="16" height="16" rx="2"/>
+    <rect x="1180" y="482" width="16" height="16" rx="2"/><rect x="1204" y="522" width="16" height="16" rx="2"/>
+    <rect x="1180" y="522" width="16" height="16" rx="2"/>
+  </g>
+  <rect x="1204" y="482" width="16" height="16" rx="2" fill="#F08019"/>
+</svg>

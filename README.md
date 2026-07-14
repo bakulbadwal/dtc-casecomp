@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="DTC Case Competition — real case, working agents, judged on both">
+</picture>
+
 # DTC Case Competition — Planning Hub
 
 Working planning materials for a prospective **Darden Tech Club case competition**: a marketing case that teams complete *with* AI — not AI-assisted slides, but working agents doing real marketing work, judged alongside the business recommendation.

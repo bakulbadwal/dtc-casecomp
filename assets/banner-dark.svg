@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1280 320" width="1280" height="320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DTC Case Competition banner, dark">
+  <rect width="1280" height="320" fill="#141B2E"/>
+  <rect width="1280" height="320" fill="none" stroke="#26304A" stroke-width="2"/>
+  <rect x="72" y="82" width="46" height="5" fill="#F08019"/>
+  <text x="72" y="122" font-family="'Avenir Next','Segoe UI',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3.5" fill="#F08019">DARDEN TECH CLUB · PLANNING HUB</text>
+  <text x="70" y="182" font-family="'Avenir Next','Segoe UI',Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="-1" fill="#F2F4F9">DTC CASE COMPETITION</text>
+  <text x="72" y="226" font-family="'Avenir Next','Segoe UI',Arial,sans-serif" font-size="21" font-weight="500" fill="#9AA3B8">Real case. Working agents. Judged on both.</text>
+  <g stroke="#F2F4F9" stroke-opacity="0.25" stroke-width="1.5" fill="none">
+    <path d="M 950 96 L 1052 160 M 950 138 L 1052 160 M 950 182 L 1052 160 M 950 224 L 1052 160"/>
+    <path d="M 1068 160 L 1150 112 M 1068 160 L 1150 160 M 1068 160 L 1150 208"/>
+  </g>
+  <path d="M 950 138 L 1052 160 L 1150 160" stroke="#F08019" stroke-width="2.5" fill="none"/>
+  <g fill="#F2F4F9" fill-opacity="0.5">
+    <circle cx="950" cy="96" r="7"/><circle cx="950" cy="182" r="7"/><circle cx="950" cy="224" r="7"/>
+  </g>
+  <circle cx="950" cy="138" r="8" fill="#F08019"/>
+  <circle cx="1060" cy="160" r="17" fill="none" stroke="#F08019" stroke-width="3"/>
+  <circle cx="1060" cy="160" r="6" fill="#F08019"/>
+  <g fill="#F2F4F9" fill-opacity="0.5">
+    <rect x="1150" y="104" width="15" height="15" rx="2"/><rect x="1172" y="104" width="15" height="15" rx="2"/>
+    <rect x="1150" y="152" width="15" height="15" rx="2"/><rect x="1194" y="104" width="15" height="15" rx="2"/>
+    <rect x="1172" y="152" width="15" height="15" rx="2"/><rect x="1150" y="200" width="15" height="15" rx="2"/>
+  </g>
+  <rect x="1172" y="152" width="15" height="15" rx="2" fill="#F08019"/>
+</svg>
