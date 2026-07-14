@@ -35,7 +35,7 @@ A 1–2 page appendix: which tools, for what, what the humans decided vs. what t
 
 | Dependency | Why it matters | Owner |
 |---|---|---|
-| **Copilot Studio licenses + provisioned environments per team** | Copilot Studio is not free-tier; without sponsor-provisioned environments, Tier 2 is impossible. This is the single biggest logistical dependency and should be raised with the sponsor **at sponsorship-agreement stage, not event week**. | Sponsor |
+| **Copilot Studio access per team** | Good news (verified July 2026): the individual **free trial** covers demo-stage builds — full agent-building access, demoable to judges; trial agents just can't be *published*, which a demo-format competition doesn't need. Sponsor-provisioned licenses are only required if teams should publish/persist agents beyond the event. The school's own Microsoft EDU agreement may already include seats — worth one email to IT. Either way, confirm the access story **at sponsorship-agreement stage, not event week**. | Teams self-serve (trial) or sponsor (publishing) |
 | Kickoff tooling workshop (90 min) | Most participants will be new to agent-building; a hands-on session moves the whole field from Tier 1 to Tier 2 | Organizers + sponsor SEs |
 | Sponsor office hours during build window | Unblocks teams; doubles as the sponsor's recruiting touchpoint | Sponsor |
 | Client data/materials pack | Agents need something real to be grounded in (menus, price lists, past campaigns, FAQ docs) | Case client + organizers |
