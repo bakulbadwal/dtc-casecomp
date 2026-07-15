@@ -24,6 +24,7 @@ Precedent on Grounds: the Batten Institute's inaugural **Tech Innovators Challen
 | [case/rubric.md](case/rubric.md) | Judging rubric with an explicit AI-leverage dimension |
 | [case/event-format.md](case/event-format.md) | Event skeleton, sponsor touchpoints, open decisions |
 | [event-ops/agentic-ops.md](event-ops/agentic-ops.md) | Menu of agent-run event operations, with effort estimates |
+| [sponsor/prospectus.md](sponsor/prospectus.md) | One-page sponsor prospectus — built to be forwarded |
 
 ## How to use this repo
 
